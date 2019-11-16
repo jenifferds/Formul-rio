@@ -1,0 +1,80 @@
+.topmenu{
+    display: flex;
+    background: rgb(14, 14, 22);
+    margin: 0px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+}
+.topmenu li{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 30px;
+
+}
+.topmenu li :first-child{
+    margin-right: auto;
+}
+.estilo{
+    display: flex;
+    height: 100vh;
+    background: url("../imagens/paisagens.jpg") no-repeat; 
+    
+}
+.centralize{
+    margin: auto;
+    text-align: center;
+
+}
+.imagem{
+    border-radius: 100%;
+    width: 15%;
+    height: 15%;
+    margin-top: 10%;
+}
+.cor1{
+    color: white;
+}
+.projetos{ display: flex;
+    height: 33vh;
+    background-color: white;
+    
+
+
+}
+.cores2{
+    display: flex;
+    background-color: white;
+    width: 33vh;
+}
+.imagemprojeto{
+    width: 250px;
+    height: 250px;
+    padding-left: 50px;
+    
+}
+.button{
+    color: white;
+}
+
+.corbiografia{
+    background: url("../imagens/paisagens.jpg") no-repeat; 
+    width: auto;
+    height: auto;
+    color: white;
+
+}
+.imagemcontato{
+    background: url("../imagens/paisagens.jpg") no-repeat; 
+    color: white;
+}
+.imagemetexto{
+    display: inline-block;
+}
+.especializcao{
+    background: url("../imagens/paisagens.jpg") no-repeat; 
+    color: white;
+    
+}
